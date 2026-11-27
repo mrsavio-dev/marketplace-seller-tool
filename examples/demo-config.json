@@ -1,0 +1,46 @@
+{
+  "currency": "USD",
+  "allowed_categories": ["Top Up"],
+  "tick": "0.01",
+  "poll_interval_seconds": 30,
+  "undercut_on_tie": true,
+  "endpoints_verified": false,
+  "listings": [
+    {
+      "offer_id": "OF-DEMO-1",
+      "title": "1000 UC PUBG Mobile",
+      "game": "PUBG Mobile",
+      "category": "Top Up",
+      "price": "12.50",
+      "floor_price": "11.00",
+      "ceiling_price": "16.00"
+    },
+    {
+      "offer_id": "OF-DEMO-2",
+      "title": "500 UC PUBG Mobile",
+      "game": "PUBG Mobile",
+      "category": "Top Up",
+      "price": "6.40",
+      "floor_price": "6.35",
+      "ceiling_price": "8.00"
+    },
+    {
+      "offer_id": "OF-DEMO-3",
+      "title": "Steam account, 20 games",
+      "game": "Steam",
+      "category": "Accounts",
+      "price": "40.00",
+      "floor_price": "30.00",
+      "ceiling_price": "60.00"
+    },
+    {
+      "offer_id": "OF-DEMO-4",
+      "title": "2000 UC PUBG Mobile",
+      "game": "PUBG Mobile",
+      "category": "Top Up",
+      "price": "9.00",
+      "floor_price": "8.00",
+      "ceiling_price": "12.00"
+    }
+  ]
+}
