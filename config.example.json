@@ -1,0 +1,32 @@
+{
+  "currency": "USD",
+  "allowed_categories": [
+    "Top Up"
+  ],
+  "tick": "0.01",
+  "poll_interval_seconds": 30,
+  "endpoints_verified": false,
+  "offer_path": "",
+  "offer_price_path": "",
+  "listings": [
+    {
+      "offer_id": "REPLACE_WITH_OFFER_ID",
+      "title": "1000 UC PUBG Mobile",
+      "game": "PUBG Mobile",
+      "category": "Top Up",
+      "price": "12.50",
+      "floor_price": "11.00",
+      "ceiling_price": "REPLACE_WITH_MAX_PRICE"
+    },
+    {
+      "offer_id": "REPLACE_WITH_SECOND_OFFER_ID",
+      "title": "500 UC PUBG Mobile",
+      "game": "PUBG Mobile",
+      "category": "Top Up",
+      "price": "6.40",
+      "floor_price": "5.80",
+      "ceiling_price": "REPLACE_WITH_MAX_PRICE"
+    }
+  ],
+  "undercut_on_tie": true
+}
