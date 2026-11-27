@@ -1,0 +1,15 @@
+{
+  "OF-DEMO-1": [
+    {"seller": "shop-a", "price": "12.40", "quantity": 25},
+    {"seller": "shop-b", "price": "12.75", "quantity": 10}
+  ],
+  "OF-DEMO-2": [
+    {"seller": "shop-c", "price": "6.20", "quantity": 40}
+  ],
+  "OF-DEMO-3": [
+    {"seller": "shop-d", "price": "35.00", "quantity": 3}
+  ],
+  "OF-DEMO-4": [
+    {"seller": "shop-e", "price": "11.00", "quantity": 12}
+  ]
+}
