@@ -1,0 +1,9 @@
+{
+  "REPLACE_WITH_OFFER_ID": [
+    {"seller": "shop-a", "price": "12.40", "quantity": 25},
+    {"seller": "shop-b", "price": "12.75", "quantity": 10}
+  ],
+  "REPLACE_WITH_SECOND_OFFER_ID": [
+    {"seller": "shop-c", "price": "6.20", "quantity": 40}
+  ]
+}
